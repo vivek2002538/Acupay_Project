@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Acupay.Data\Acupay.Data.csproj" />
+    <ProjectReference Include="Acupay.Data\Acupay.Data.csproj" />
   </ItemGroup>
 
 </Project>

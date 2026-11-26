@@ -27,8 +27,8 @@
             "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Data\\Acupay.Data.csproj": {
-                "projectPath": "C:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Data\\Acupay.Data.csproj"
+              "c:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Api\\Acupay.api\\Acupay.Data\\Acupay.Data.csproj": {
+                "projectPath": "c:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Api\\Acupay.api\\Acupay.Data\\Acupay.Data.csproj"
               }
             }
           }
@@ -492,14 +492,14 @@
         }
       }
     },
-    "C:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Data\\Acupay.Data.csproj": {
+    "c:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Api\\Acupay.api\\Acupay.Data\\Acupay.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Data\\Acupay.Data.csproj",
+        "projectUniqueName": "c:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Api\\Acupay.api\\Acupay.Data\\Acupay.Data.csproj",
         "projectName": "Acupay.Data",
-        "projectPath": "C:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Data\\Acupay.Data.csproj",
+        "projectPath": "c:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Api\\Acupay.api\\Acupay.Data\\Acupay.Data.csproj",
         "packagesPath": "C:\\Users\\sushma.sriramula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Data\\obj\\",
+        "outputPath": "c:\\Users\\sushma.sriramula\\Acupay_Project\\Acupay_Project\\Acupay.Api\\Acupay.api\\Acupay.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sushma.sriramula\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Acupay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deaf04ba5707aabc4d7caf137efcb34dbcc52c1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2d4e00f5b9a8a8f05650ceeaa40dc7b500e2e8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Acupay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Acupay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
